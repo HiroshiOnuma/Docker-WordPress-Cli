@@ -1,4 +1,4 @@
-# Docker-WordPress=Cli
+# Docker-WordPress-Cli
 This is a method to set up a WordPress environment using docker-compose.
 
 ## Prerequisites
