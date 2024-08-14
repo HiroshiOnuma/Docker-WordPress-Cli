@@ -4,7 +4,7 @@
 #=======================
 wp core install \
 --url="http://localhost:8080" \
---title="myproject" \
+--title="My-WordPress" \
 --admin_user='admin' \
 --admin_password='test' \
 --admin_email='info@example.com' \
